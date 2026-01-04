@@ -1,8 +1,5 @@
 # Leveraging Social Determinants of Health (SDOH) Analytics to Address Healthcare Disparities
 
-
-
-🔗 **View Dashboard**  
 *(Power BI dashboard showcasing health equity insights across regions and populations)*
 
 <img width="1034" height="805" alt="Screenshot 2026-01-04 111523" src="https://github.com/user-attachments/assets/58b0e294-f69b-4988-a863-fe16e536d7b6" />
